@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "6466",
+      "name": "Anton",
+      "email": "anton@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "b2e1",
+      "name": "Andi",
+      "email": "andin@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "c6c6",
+      "name": "Budi",
+      "email": "Budin@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "4c05",
+      "name": "Cindy",
+      "email": "cindy@gmail.com",
+      "age": "22"
+    }
+  ]
+}
